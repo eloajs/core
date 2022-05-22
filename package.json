@@ -1,5 +1,5 @@
 {
-  "name": "@eloajs/core",
+  "name": "eloajs",
   "version": "1.0.0",
   "description": "A Framework Node.js server-side to JavaScript & TypeScript",
   "keywords": [
@@ -10,7 +10,7 @@
     "typescript"
   ],
   "authors": [
-    "@ahsouza Aníbal Henrique De Souza <anibal.souza@eloajs.org"
+    "@ahsouza Aníbal Henrique De Souza <anibal.souza@eloajs.org>"
   ],
   "homepage": "https://github.com/eloajs/core#readme",
   "bugs": {
@@ -30,8 +30,5 @@
   "engines": {
     "node": ">=6.0.0"
   },
-  "engineStrict": true,
-  "publishConfig": {
-    "registry":"https://npm.pkg.github.com"
-  }
+  "engineStrict": true
 }
