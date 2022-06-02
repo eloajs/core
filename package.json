@@ -6,12 +6,14 @@
     "eloajs",
     "nodejs",
     "node",
+    "api",
+    "proxy",
+    "http",
     "javascript",
     "typescript"
   ],
-  "authors": [
-    "@ahsouza Aníbal Henrique De Souza <anibal.souza@eloajs.org"
-  ],
+  "author": "Aníbal Souza <anibal.souza@eloajs.org",
+  "contributors": [],
   "homepage": "https://github.com/eloajs/core#readme",
   "bugs": {
     "url": "https://github.com/eloajs/core/issues",
